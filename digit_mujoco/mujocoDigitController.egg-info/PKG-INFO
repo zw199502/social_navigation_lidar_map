@@ -1,0 +1,27 @@
+Metadata-Version: 2.1
+Name: mujocoDigitController
+Version: 1.4.0
+Summary: Benchmark environments for high-speed robot learning in NVIDIA IsaacGym.
+Author: NVIDIA
+Keywords: robotics,rl
+Classifier: Natural Language :: English
+Classifier: Programming Language :: Python :: 3.6, 3.7, 3.8
+Requires-Python: >=3.6
+Requires-Dist: mujoco
+Requires-Dist: transforms3d
+Requires-Dist: matplotlib
+Requires-Dist: scipy
+Requires-Dist: ruamel_yaml
+Requires-Dist: mujoco-python-viewer
+Requires-Dist: akro
+Requires-Dist: dowel
+Requires-Dist: setproctitle
+Requires-Dist: cma
+Requires-Dist: pygame
+Requires-Dist: pandas
+Requires-Dist: opencv-python
+Requires-Dist: moviepy
+Requires-Dist: imageio
+Requires-Dist: click
+Requires-Dist: psutil
+Requires-Dist: ray

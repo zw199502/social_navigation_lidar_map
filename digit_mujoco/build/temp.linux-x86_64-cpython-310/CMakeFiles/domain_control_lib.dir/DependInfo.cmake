@@ -1,0 +1,25 @@
+# The set of languages for which implicit dependencies are needed:
+set(CMAKE_DEPENDS_LANGUAGES
+  "CXX"
+  )
+# The set of files for implicit dependencies of each language:
+set(CMAKE_DEPENDS_CHECK_CXX
+  "/home/wzhu328/sac_ae_lidar_map/digit_mujoco/DigitControlPybind/src/include/digit_controller/src/domain_control.cpp" "/home/wzhu328/sac_ae_lidar_map/digit_mujoco/build/temp.linux-x86_64-cpython-310/CMakeFiles/domain_control_lib.dir/DigitControlPybind/src/include/digit_controller/src/domain_control.cpp.o"
+  )
+set(CMAKE_CXX_COMPILER_ID "GNU")
+
+# The include file search paths:
+set(CMAKE_CXX_TARGET_INCLUDE_PATH
+  "../../DigitControlPybind/src/include/digit_controller/include"
+  "../../DigitControlPybind/src/include/digit_controller/include/MathExpr"
+  "../../DigitControlPybind/src/include/digit_controller/include/Eigen"
+  "../../DigitControlPybind/src/include/digit_controller/include/GeometricKinematics"
+  "../../DigitControlPybind/src/include/digit_controller/include/AnalyticalKinematicsDynamics"
+  )
+
+# Targets to which this target links.
+set(CMAKE_TARGET_LINKED_INFO_FILES
+  )
+
+# Fortran module output directory.
+set(CMAKE_Fortran_TARGET_MODULE_DIR "")
